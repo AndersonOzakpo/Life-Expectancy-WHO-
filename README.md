@@ -18,7 +18,7 @@
 
 This analysis explores life expectancy data across various countries, analyzing the impact of factors such as adult mortality, education, economic status, and alcohol consumption on life expectancy. The findings aim to guide policymakers in implementing effective healthcare, education, and economic strategies to enhance life expectancy globally.
 
-![Netflix_Dashboard](https://github.com/AndersonOzakpo/Netflix-Dashboard/assets/169863628/8e4dcdb6-6be6-4eac-bef2-97f3bc241483)
+![Life Expectancy_Dashboard](https://github.com/AndersonOzakpo/Life-Expectancy-WHO-/commit/cab30a28caeb4c90d9475e38b365eb271ead1de9)
 
 ### Data Sources
 
